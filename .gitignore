@@ -1,3 +1,4 @@
 /target
 /src/today_list.txt
 /src/exact_whitelist.txt
+/src/pattern_blacklist.txt
